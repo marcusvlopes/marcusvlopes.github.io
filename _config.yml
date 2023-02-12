@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Marcus Vinicius Lopes / Site"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Marcus Vinicius Lopes"
 description              : &description "personal description"
 url                      : https://marcusvlopes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Marcus Vinicius Lopes"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Research scientist obtained her Master’s degree in Electrical Engineering from the Universidade Federal do Maranhão in 2013. Doctor of Electrical Engineering in the same School. Her research interests include Signal Processing, Fuzzy Logic, Machine Learning, Big Data, Electronics, Instrumentation and Aerospace"
+  location         : "São Luís-MA, Brazil"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.co.in/citations?hl=en&user=UiYW_VgAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,25 +96,26 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "marcusvlopes"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-3195-0570"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "engmarcuslopes"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  lattes           : "http://lattes.cnpq.br/8923592573399769"
 
 
 # Reading Files
