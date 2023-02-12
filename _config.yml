@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marcus Vinicius Lopes"
 title_separator          : "-"
 name                     : &name "Marcus Vinicius Lopes"
-description              : &description "Research scientist at Test University"
+description              : &description "Research scientist"
 url                      : https://marcusvlopes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marcusvlopes.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Marcus Vinicius Lopes"
   avatar           : "profile.png"
-  bio              : "Research scientist obtained her Master’s degree in Electrical Engineering from the Universidade Federal do Maranhão in 2010. Doctor of Electrical Engineering in the same School. Her research interests include Signal Processing, Fuzzy Logic, Machine Learning, Big Data, Electronics, Instrumentation and Aerospace"
+  bio              : "Research scientist obtained her Master’s degree in Electrical Engineering from the Universidade Federal do Maranhão in 2013. Doctor of Electrical Engineering in the same School. Her research interests include Signal Processing, Fuzzy Logic, Machine Learning, Big Data, Electronics, Instrumentation and Aerospace"
   location         : "São Luís-MA, Brazil"
   employer         : 
   googlescholar    : "https://scholar.google.co.in/citations?hl=en&user=UiYW_VgAAAAJ"
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"testaccount-this-is-fake"
+  twitter          : https://twitter.com/engmarcuslopes
   vine             :
   weibo            :
   xing             :
