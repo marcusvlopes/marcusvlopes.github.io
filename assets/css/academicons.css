@@ -130,6 +130,14 @@
 .ai-inspire-square:before {
   content: "\e835";
 }
+
+.ai-lattes:before {
+  content: "\e9b3";
+}
+.ai-lattes-square:before {
+  content: "\e99c";
+}
+
 .ai-mendeley:before {
   content: "\e836";
 }
